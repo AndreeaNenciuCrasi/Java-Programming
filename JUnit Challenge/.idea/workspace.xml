@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83521966-7077-4cdc-b4f8-0bc5460949d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1civ3HWGqRs1gvH4mhYLl3KmMU6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UtilitiesTestParameterized.removePairs">
+    <configuration name="UtilitiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.UtilitiesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTestParameterized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.UtilitiesTestParameterized" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTestParameterized.removePairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.UtilitiesTestParameterized" />
+      <option name="METHOD_NAME" value="removePairs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTest.everyNthChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.UtilitiesTest" />
+      <option name="METHOD_NAME" value="everyNthChar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTest.removePairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.UtilitiesTest" />
+      <option name="METHOD_NAME" value="removePairs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UtilitiesTest" />
+      <item itemvalue="JUnit.UtilitiesTest.removePairs" />
+      <item itemvalue="JUnit.UtilitiesTest.everyNthChar" />
+      <item itemvalue="JUnit.UtilitiesTestParameterized" />
+      <item itemvalue="JUnit.UtilitiesTestParameterized.removePairs" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UtilitiesTestParameterized.removePairs" />
+        <item itemvalue="JUnit.UtilitiesTestParameterized" />
+        <item itemvalue="JUnit.UtilitiesTest" />
+        <item itemvalue="JUnit.UtilitiesTest.everyNthChar" />
+        <item itemvalue="JUnit.UtilitiesTest.removePairs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83521966-7077-4cdc-b4f8-0bc5460949d2" name="Default Changelist" comment="" />
+      <created>1591024028003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591024028003</updated>
+      <workItem from="1591024031775" duration="8793000" />
+      <workItem from="1591077510321" duration="497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="220" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591031602404">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="566" y="220" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1533.873@67.27.1533.873" timestamp="1591031602404" />
+    <state x="641" y="181" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1591031227826">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="641" y="181" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1533.873@67.27.1533.873" timestamp="1591031227826" />
+    <state width="1487" height="272" key="GridCell.Tab.0.bottom" timestamp="1591035448492">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1591035448492" />
+    <state width="1487" height="272" key="GridCell.Tab.0.center" timestamp="1591035448491">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1591035448491" />
+    <state width="1487" height="272" key="GridCell.Tab.0.left" timestamp="1591035448491">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1591035448491" />
+    <state width="1487" height="272" key="GridCell.Tab.0.right" timestamp="1591035448492">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1591035448492" />
+    <state width="1487" height="272" key="GridCell.Tab.1.bottom" timestamp="1591035448493">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1591035448493" />
+    <state width="1487" height="272" key="GridCell.Tab.1.center" timestamp="1591035448492">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1591035448492" />
+    <state width="1487" height="272" key="GridCell.Tab.1.left" timestamp="1591035448492">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1591035448492" />
+    <state width="1487" height="272" key="GridCell.Tab.1.right" timestamp="1591035448493">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1591035448493" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1591077512850">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1591077512850" />
+    <state x="500" y="358" width="636" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591031140630">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="500" y="358" width="636" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1533.873@67.27.1533.873" timestamp="1591031140630" />
+    <state x="607" y="137" width="442" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591025951090">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="607" y="137" width="442" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1533.873@67.27.1533.873" timestamp="1591025951090" />
+    <state x="142" y="63" width="1372" height="799" key="new project wizard" timestamp="1591078002782">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="142" y="63" width="1372" height="799" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1591078002782" />
+  </component>
+</project>

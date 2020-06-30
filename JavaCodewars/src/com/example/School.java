@@ -1,0 +1,25 @@
+package com.example;
+
+//It's the academic year's end, fateful moment of your school report. The averages must be calculated. All the students come to you and entreat you to calculate their average for them. Easy ! You just need to write a script.
+//
+//        Return the average of the given array rounded down to its nearest integer.
+//
+//        The array will never be empty.
+
+
+import java.util.stream.IntStream;
+
+public class School {
+    static int getAverage(int[] marks) {
+        return (int) IntStream.of(marks).average().getAsDouble();
+    }
+}
+
+//import java.util.*;
+//public class School{
+//
+//    public static int getAverage(int[] marks){
+//        return Arrays.stream(marks).sum() / marks.length;
+//    }
+//
+}
